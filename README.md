@@ -40,7 +40,7 @@ mvn clean package
 ## Run
 
 ```bash
-java -cp target/delta-kafka-publisher-1.0-SNAPSHOT.jar io.github.nicolasthreatt.deltaconnector.Main
+java -jar target/delta-kafka-publisher-1.0-SNAPSHOT.jar
 ```
 
 ## License
